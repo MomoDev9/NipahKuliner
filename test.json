@@ -1,0 +1,7 @@
+<?php
+	class usr{}
+		$response->message = "Nama atau password salah";
+		die(json_encode($response));
+	}
+	
+?>
