@@ -1,2 +1,1 @@
 # NipahKuliner
-a.json
