@@ -1,0 +1,102 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "nama": "Green Cafe",
+      "jam_buka": "10.00 - 24.00",
+      "alamat": "Parit 7",
+      "foto": "http://football-player.rf.gd/football/degea.png"
+    },
+    {
+      "id": 2,
+      "nama": "Victor Lindelov",
+      "jam_buka": "1994-07-17",
+      "alamat": "Defender",
+      "foto": "http://football-player.rf.gd/football/viktor.png"
+    },
+    {
+      "id": 3,
+      "nama": "Erick Bailly",
+      "jam_buka": "1994-04-12",
+      "alamat": "Defender",
+      "foto": "http://football-player.rf.gd/football/erik.png"
+    },
+    {
+      "id": 4,
+      "nama": "Phil Jones",
+      "jam_buka": "1992-02-21",
+      "alamat": "Defender",
+      "foto": "http://football-player.rf.gd/football/phil.png"
+    },
+    {
+      "id": 5,
+      "nama": "Marcos Rojo",
+      "jam_buka": "1990-03-20",
+      "alamat": "Defender",
+      "foto": "http://football-player.rf.gd/football/rojo.png"
+    },
+    {
+      "id": 6,
+      "nama": "Paul Pogba",
+      "jam_buka": "1993-03-15",
+      "alamat": "MidFielder",
+      "foto": "http://football-player.rf.gd/football/pogba.png"
+    },
+    {
+      "id": 7,
+      "nama": "Alexis",
+      "jam_buka": "1988-12-19",
+      "alamat": "Forward",
+      "foto": "http://football-player.rf.gd/football/alexis.png"
+    },
+    {
+      "id": 8,
+      "nama": "Juan Mata",
+      "jam_buka": "1988-04-28",
+      "alamat": "Attacking MidFielder",
+      "foto": "http://football-player.rf.gd/football/mata.png"
+    },
+    {
+      "id": 9,
+      "nama": "Romelu Lukaku",
+      "jam_buka": "1993-05-13",
+      "alamat": "Striker",
+      "foto": "http://football-player.rf.gd/football/lukaku.png"
+    },
+    {
+      "id": 10,
+      "nama": "Anthony Martial",
+      "jam_buka": "1995-12-05",
+      "alamat": "Striker",
+      "foto": "http://football-player.rf.gd/football/martial.png"
+    },
+    {
+      "id": 11,
+      "nama": "Chris Smalling",
+      "jam_buka": "1989-11-22",
+      "alamat": "Defender",
+      "foto": "http://football-player.rf.gd/football/smaling.png"
+    },
+    {
+      "id": 12,
+      "nama": "Jesse Lingard",
+      "jam_buka": "1992-12-15",
+      "alamat": "MidFielder",
+      "foto": "http://football-player.rf.gd/football/lingard.png"
+    },
+    {
+      "id": 13,
+      "nama": "joel Pereira",
+      "jam_buka": "1996-01-01",
+      "alamat": "Goal Keeper",
+      "foto": "http://football-player.rf.gd/football/joel.png"
+    },
+    {
+      "id": 14,
+      "nama": "Marcus Rashford",
+      "jam_buka": "1997-02-02",
+      "alamat": "Forward",
+      "foto": "http://football-player.rf.gd/football/marcus.png"
+    }
+  ]
+}
